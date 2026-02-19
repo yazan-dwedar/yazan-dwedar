@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,100:2C5364&text=Yazan%20Dwedar&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Team%20Leader%20|%20Computer%20Science%20Student%20|%203D%20Game%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1F1C2C,50:3A3F58,100:0F2027&text=Yazan%20Dwedar&fontSize=60&fontColor=EAEAEA&animation=fadeIn&fontAlignY=38&desc=Team%20Leader%20|%20Computer%20Science%20Student%20|%203D%20Game%20Developer&descAlignY=60&descSize=18"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=00C6FF&center=true&vCenter=true&width=850&lines=Unity+%7C+C%23+Developer;Gameplay+Systems+Architect;3D+Environment+Builder;Team+Leadership+%26+Project+Management)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=800&color=8EC5FC&center=true&vCenter=true&width=800&lines=Unity+Developer;C%23+Gameplay+Programmer;3D+Systems+Builder;Project+Leadership)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 🎓 Second-year **Computer Science Student**  
 👥 **Team Leader** managing game development projects  
-🎮 Specialized in **3D Game Development** using Unity  
-💻 Strong in **C# Programming & Gameplay Mechanics**
+🎮 Specialized in **3D Game Development**  
+💻 Strong in **C# Programming & Unity Engine**
 
 ---
 
-## 🎮 Technical Stack
+## 🛠️ Technical Stack
 
 <div align="center">
 
@@ -29,13 +29,13 @@
 
 ---
 
-## 🧠 What I Focus On
+## 🚀 What I Focus On
 
-- 🕹️ Gameplay Programming  
-- 🏗️ 3D Systems & Mechanics  
-- 🌍 Interactive Environments  
+- 🎮 Gameplay Programming  
+- 🧠 Clean & Scalable C# Architecture  
+- 🌍 3D Environment Systems  
 - 🔗 Multiplayer Foundations  
-- 📂 Clean & Scalable C# Architecture  
+- 📦 Organized Project Structure  
 
 ---
 
@@ -43,7 +43,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0F2027&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0F2027&ring=8EC5FC&fire=8EC5FC&currStreakLabel=8EC5FC"/>
 
 </div>
 
@@ -58,6 +58,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,100:2C5364&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F1C2C,100:0F2027&section=footer"/>
 </div>
 
