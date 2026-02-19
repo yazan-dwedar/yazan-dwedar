@@ -1,72 +1,95 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yazan%20Dwedar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:141E30,50:243B55,100:0F2027&section=header"/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=950&height=150&lines=Computer+Science+Student;3D+Game+Developer;Unity+%7C+C%23+Developer;Gameplay+Programming;Team+Leader+%7C+Project+Coordinator)](https://git.io/typing-svg)
 
-<svg width="100%" height="120">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+</div>
 
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="55" font-family="Segoe UI, sans-serif"
-        fill="#8EC5FC" filter="url(#glow)">
-    Yazan Dwedar
-  </text>
-</svg>
-
-<p align="center" style="margin-top:-20px; font-size:18px; color:#C9D6FF;">
-  Team Leader | Computer Science Student | 3D Game Developer
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue)](https://github.com/YOUR_USERNAME)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Current Focus
 
-🎓 Second-year **Computer Science Student**  
-👥 **Team Leader** managing game development projects  
-🎮 Specialized in **3D Game Development using Unity**  
-💻 Strong in **C# Programming & Gameplay Systems**
+- 🎓 Second-year **Computer Science Student**
+- 🎮 3D Game Development
+- 🧠 Gameplay Programming
+- 🛠️ Unity Engine Development
+- 👥 Team Leadership & Project Management
 
 ---
 
-## 🎮 Technical Stack
+## 🎮 Core Skills
 
+### 🎯 Game Development
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,cs,visualstudio,git,blender" />
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![3D Games](https://img.shields.io/badge/3D_Game_Development-1F618D?style=for-the-badge)
+![Gameplay Programming](https://img.shields.io/badge/Gameplay_Programming-34495E?style=for-the-badge)
+
+</div>
+
+### 💻 Programming & Tools
+<div align="center">
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 </div>
 
 ---
 
-## 🧠 What I Focus On
+## 👥 Leadership
 
-- 🕹️ Gameplay Programming  
-- 🏗️ 3D Mechanics & Systems  
-- 🌍 Interactive Environments  
-- 🔗 Multiplayer Foundations  
-- 📂 Clean & Scalable C# Architecture  
+### 🚀 Team Leader
+
+- Leading game development projects  
+- Managing task distribution between team members  
+- Coordinating gameplay systems and mechanics  
+- Ensuring clean, optimized C# architecture  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Professional Summary
+
+Second-year Computer Science student passionate about 3D game development and gameplay programming.
+
+Experienced in developing games using Unity and C#, focusing on clean code architecture, player mechanics, UI systems, and interactive environments.
+
+Currently working on expanding skills in advanced gameplay systems and multiplayer development.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yazan-dwedar&theme=tokyonight&hide_border=true&background=141E30&ring=8EC5FC&fire=8EC5FC&currStreakLabel=8EC5FC"/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
 <div align="center">
+  
+### 🎮 Open to Game Development Collaborations | Unity Projects | Indie Teams
 
-### 🎮 Open for Game Development Collaborations
+**"Build. Create. Optimize. Improve."**
 
-**"Design. Develop. Optimize. Lead."**
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
